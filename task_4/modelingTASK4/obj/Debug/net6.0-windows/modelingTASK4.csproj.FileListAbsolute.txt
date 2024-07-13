@@ -1,0 +1,36 @@
+F:\hpc codes\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.exe
+F:\hpc codes\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.deps.json
+F:\hpc codes\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.runtimeconfig.json
+F:\hpc codes\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.dll
+F:\hpc codes\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.pdb
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.csproj.AssemblyReference.cache
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.Form1.resources
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.csproj.GenerateResource.cache
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.GeneratedMSBuildEditorConfig.editorconfig
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.AssemblyInfoInputs.cache
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.AssemblyInfo.cs
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.csproj.CoreCompileInputs.cache
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.dll
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\refint\modelingTASK4.dll
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.pdb
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.genruntimeconfig.cache
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\ref\modelingTASK4.dll
+F:\hpc codes\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.Properties.Resources.resources
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.exe
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.deps.json
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.runtimeconfig.json
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.dll
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\bin\Debug\net6.0-windows\modelingTASK4.pdb
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.csproj.AssemblyReference.cache
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.Form1.resources
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.Properties.Resources.resources
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.csproj.GenerateResource.cache
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.AssemblyInfoInputs.cache
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.AssemblyInfo.cs
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.dll
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\refint\modelingTASK4.dll
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.pdb
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\modelingTASK4.genruntimeconfig.cache
+C:\Users\Hazem\Desktop\tsk4\modelingTASK4\modelingTASK4\obj\Debug\net6.0-windows\ref\modelingTASK4.dll

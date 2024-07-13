@@ -1,0 +1,48 @@
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.exe
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.deps.json
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.runtimeconfig.json
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.dll
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.pdb
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.Form1.resources
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.AssemblyInfo.cs
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.dll
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.pdb
+C:\Users\HP\source\repos\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.genruntimeconfig.cache
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.exe
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.dll
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.AssemblyReference.cache
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.Form1.resources
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.GenerateResource.cache
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.AssemblyInfoInputs.cache
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.AssemblyInfo.cs
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.CoreCompileInputs.cache
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.dll
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.pdb
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.deps.json
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.runtimeconfig.json
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.runtimeconfig.dev.json
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.pdb
+C:\Users\20155\OneDrive\Desktop\saad\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.genruntimeconfig.cache
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.exe
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.deps.json
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.runtimeconfig.json
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.runtimeconfig.dev.json
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.dll
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\bin\Debug\netcoreapp3.1\LCG_Task.pdb
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.AssemblyReference.cache
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.Form1.resources
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.GenerateResource.cache
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.AssemblyInfoInputs.cache
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.AssemblyInfo.cs
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.csproj.CoreCompileInputs.cache
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.dll
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.pdb
+D:\last year\first term\Modiling\modeling tasks\tasks-Modling\LCG_Task\LCG_Task\LCG_Task\obj\Debug\netcoreapp3.1\LCG_Task.genruntimeconfig.cache

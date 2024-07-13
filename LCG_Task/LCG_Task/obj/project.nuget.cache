@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6bJlL6B+ZD/w5f7d3mQeBBeiEHDMySZ6FWYP3mhcoHM9kevA5YISp3d/WOWEuBQhQuUvNZ+Rix+3gWe6xt+ow==",
+  "success": true,
+  "projectFilePath": "E:\\LCG_Task\\LCG_Task\\LCG_Task\\LCG_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\as721\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\as721\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\as721\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\as721\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
